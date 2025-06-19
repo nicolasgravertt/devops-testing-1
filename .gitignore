@@ -1,0 +1,38 @@
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+.env/
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Archivos de pytest
+.pytest_cache/
+.cache/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos de test coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Archivos creados por herramientas de distribución
+build/
+dist/
+*.egg-info/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
